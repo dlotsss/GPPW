@@ -33,3 +33,4 @@ Key visualizations:
 
 This visualization is used directly in the academic paper to support findings in **Theme 1: Infrastructural Accessibility**.
 
+![Heatmap of Accessibility](imgs/heatmap.png)
