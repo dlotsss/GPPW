@@ -25,3 +25,10 @@ Each site is assessed on the presence (1) or absence (0) of:
 
 - `pandas` – data structuring  
 - `seaborn` and `matplotlib` – heatmap generation  
+
+## 🖼 Output
+
+Key visualizations:
+- **Heatmap:** Accessibility criteria presence/absence by location  
+
+This visualization is used directly in the academic paper to support findings in **Theme 1: Infrastructural Accessibility**.
