@@ -12,6 +12,11 @@ This Jupyter Notebook supports a qualitative and quantitative research project a
 ## 📁 Data Overview
 
 The dataset covers 7 locations:
-- **4 shopping centers:** City Mall, Abzal, Arbat, TSUM  
+- **4 shopping centers:** City Mall, Abzal, Arbat, Central Department Store (ЦУМ/TSUM)  
 - **1 school:** NIS ChB Karagandy  
 - **2 medical facilities:** Clinic #11, City Hospital's Clinic #1
+
+Each site is assessed on the presence (1) or absence (0) of:
+- **Ramp / Entrance accessibility**  
+- **Elevator access**  
+- **Accessible restroom**
