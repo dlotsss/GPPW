@@ -1,4 +1,4 @@
-### ♿ Accessibility Audit Analysis – Karaganda
+## ♿ Accessibility Audit Analysis – Karaganda
 
 This Jupyter Notebook supports a qualitative and quantitative research project analyzing the **accessibility of public spaces for people with disabilities in Karaganda, Kazakhstan**. The notebook was created as part of a high school research paper and includes both **field-collected data** and **visualizations generated using Python libraries**.
 
@@ -8,3 +8,10 @@ This Jupyter Notebook supports a qualitative and quantitative research project a
 - 📊 Heatmap visualization using `matplotlib` to display compliance levels  
 - 📈 Bar chart of total accessibility score per location  
 - 🧠 Analysis for integration into academic results section (Theme 1: Infrastructural Accessibility)
+
+## 📁 Data Overview
+
+The dataset covers 7 locations:
+- **4 shopping centers:** City Mall, Abzal, Arbat, TSUM  
+- **1 school:** NIS ChB Karagandy  
+- **2 medical facilities:** Clinic #11, City Hospital's Clinic #1
