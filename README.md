@@ -20,3 +20,8 @@ Each site is assessed on the presence (1) or absence (0) of:
 - **Ramp / Entrance accessibility**  
 - **Elevator access**  
 - **Accessible restroom**
+
+## 🔧 Technologies Used
+
+- `pandas` – data structuring  
+- `seaborn` and `matplotlib` – heatmap generation  
